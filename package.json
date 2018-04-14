@@ -1,6 +1,6 @@
 {
   "name": "@doochik/stylelint-config-strict",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared stylelint config",
   "main": "stylelintrc.js",
   "repository": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/doochik/stylelintrc/issues"
   },
   "homepage": "https://github.com/doochik/stylelintrc#readme",
-  "peerDependencies": {
+  "dependencies": {
     "stylelint": "^9.2.0",
     "stylelint-order": "^0.8.1"
   }
